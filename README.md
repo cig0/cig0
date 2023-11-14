@@ -2,7 +2,7 @@
 
 ![](https://user-images.githubusercontent.com/394089/235332898-2da96444-bc93-467d-9e97-f066f6b8c06f.jpg)
 
-_Save a Staffy:_ https://staffydog.com/unwanted-staffordshire-bull-terriers/ 🫶
+🫶 _Save a Staffy:_ https://staffydog.com/unwanted-staffordshire-bull-terriers/ 
 
 <!--
 WIP
@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+🫶-->
