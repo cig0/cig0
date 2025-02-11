@@ -1,11 +1,7 @@
-### _Hey there, I'm Nano, a Staffordshire Bull Terrier!_ 🐾 
+![module-linkedin_banner-2-nixos-short](https://github.com/user-attachments/assets/7497d7fe-1f4a-40e1-8895-b11e3ba07602)
 
-![](https://user-images.githubusercontent.com/394089/235332898-2da96444-bc93-467d-9e97-f066f6b8c06f.jpg)
-
-🫶 _Save a Staffy:_ https://staffydog.com/unwanted-staffordshire-bull-terriers/ 
 
 <!--
-WIP
 <h4 align='center'> . . . </h4>
 
 <p align='center'>
