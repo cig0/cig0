@@ -1,6 +1,4 @@
-![module-linkedin_banner-2-nixos-short](https://github.com/user-attachments/assets/7497d7fe-1f4a-40e1-8895-b11e3ba07602)
 ![guix-test-pilot](https://github.com/user-attachments/assets/8ed705a3-f15b-44a5-8a20-d6550890a075)
-
 
 <!--
 <h4 align='center'> . . . </h4>
