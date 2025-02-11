@@ -14,8 +14,8 @@
 
 [![Martín's GitHub stats](https://github-readme-stats.vercel.app/api?username=cig0&show_icons=true&count_private=true&bg_color=00000000&hide_border=true&theme=default&rank_icon=github#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![Martín's GitHub stats](https://github-readme-stats.vercel.app/api?username=cig0&show_icons=true&count_private=true&bg_color=00000000&hide_border=true&theme=tokyonight&rank_icon=github#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cig0&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&bg_color=00000000&hide_border=true&hide=css,html,javascript,ruby,saltstack&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cig0&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&bg_color=00000000&hide_border=true&hide=css,html,javascript,ruby,saltstack&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cig0&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&bg_color=00000000&hide_border=true&hide=css,html,shell&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cig0&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&bg_color=00000000&hide_border=true&hide=css,html,shell&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cig0&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&bg_color=00000000&hide_border=true&hide=shell,css,html=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
