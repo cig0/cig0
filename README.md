@@ -1,4 +1,4 @@
-[![guix-test-pilot](https://github.com/user-attachments/assets/8ed705a3-f15b-44a5-8a20-d6550890a075)](https://guix.gnu.org)
+<!-- [![guix-test-pilot](https://github.com/user-attachments/assets/8ed705a3-f15b-44a5-8a20-d6550890a075)](https://guix.gnu.org) -->
 
 <!--
 <h4 align='center'> . . . </h4>
