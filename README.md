@@ -1,5 +1,6 @@
-<!-- [![guix-test-pilot](https://github.com/user-attachments/assets/8ed705a3-f15b-44a5-8a20-d6550890a075)](https://guix.gnu.org) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=If you don't care about quality, you can meet any other requirement--Gerald Weinberg;Simplicity is the ultimate sophistication--Leonardo da Vinci, probably)](https://git.io/typing-svg)
 
+<!-- [![guix-test-pilot](https://github.com/user-attachments/assets/8ed705a3-f15b-44a5-8a20-d6550890a075)](https://guix.gnu.org) -->
 <!--
 <h4 align='center'> . . . </h4>
 
