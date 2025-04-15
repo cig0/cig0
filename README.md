@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=FAF9FF&background=551280&center=true&vCenter=true&width=1035&lines=+If+you+don't+care+about+quality%2C+you+can+meet+any+other+requirement--Gerald+Weinberg+;+Simplicity+is+the+ultimate+sophistication.+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=FF7A2B&background=000000&center=true&vCenter=true&repeat=false&random=true&width=1035&lines=+If+you+don't+care+about+quality%2C+you+can+meet+any+other+requirement--Gerald+Weinberg+)](https://git.io/typing-svg)
 
 
 <!-- [![guix-test-pilot](https://github.com/user-attachments/assets/8ed705a3-f15b-44a5-8a20-d6550890a075)](https://guix.gnu.org) -->
