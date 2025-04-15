@@ -1,4 +1,7 @@
+<p align='center'>
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=duration=1500&pause=2500&center=true&vcenter=true&multiline=true&width=1100&height200&lines=Simplicity+is+the+ultimate+sophistication.;If+you+don't+care+about+quality,+you+can+meet+any+other+requirement--Gerald+Weinberg)](https://git.io/typing-svg)
+
 
 <!-- [![guix-test-pilot](https://github.com/user-attachments/assets/8ed705a3-f15b-44a5-8a20-d6550890a075)](https://guix.gnu.org) -->
 <!--
@@ -10,6 +13,8 @@
 <img alt="Martín's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=cig0&show_icons=true&theme=transparent"/></br>
 </p>
 -->
+
+</br>
 
 [![Martín's GitHub stats](https://github-readme-stats.vercel.app/api?username=cig0&show_icons=true&count_private=true&bg_color=00000000&hide_border=true&theme=default&rank_icon=github#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![Martín's GitHub stats](https://github-readme-stats.vercel.app/api?username=cig0&show_icons=true&count_private=true&bg_color=00000000&hide_border=true&theme=dracula&rank_icon=github#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
