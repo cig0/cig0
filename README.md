@@ -17,8 +17,9 @@
 </br>
 
 
-[![Martín's GitHub stats](https://github-readme-stats.vercel.app/api?username=cig0&show_icons=true&count_private=true&bg_color=00000000&hide_border=true&theme=transparent&rank_icon=github#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Martín's GitHub stats](https://github-readme-stats.vercel.app/api?username=cig0&show_icons=true&count_private=true&bg_color=00000000&hide_border=true&theme=transparent&rank_icon=github#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cig0&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&bg_color=00000000&hide_border=true&hide=css,html&theme=transparent)
+-->
 
 <!--
 **cig0/cig0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
