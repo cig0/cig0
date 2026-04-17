@@ -9,7 +9,7 @@ Mostly platform engineering, IaC, and observability. I care about systems you ca
 
 Platform Engineer on the Harley-Davidson mobile team. Took a fragmented setup and pushed it toward something that actually works: standardized CI/CD, real observability, and less friction between teams.
 
-At CodigoCode (CTO), built the Azure infrastructure behind our AI SaaS from scratch. IaC-first, automated end-to-end. Moving toward GitOps so deployments, changes, and rollbacks are consistent and boring.
+At CodigoCode, built the Azure infrastructure behind our AI SaaS from scratch. IaC-first, automated end-to-end. Moving toward GitOps so deployments, changes, and rollbacks are consistent and boring.
 
 ### How I think
 
