@@ -14,6 +14,7 @@ At CodigoCode, built the Azure infrastructure behind our AI SaaS from scratch. I
 ### How I think
 
 * Boring systems survive
+* Deterministic builds and deployments reduce risk, increase stability, and lower operational stress
 * Reproducibility over “it works here”
 * Make failure modes obvious
 * Kill manual steps
