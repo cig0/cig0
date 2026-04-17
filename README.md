@@ -1,9 +1,48 @@
 </br>
+Hi 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=8000&pause=2000&color=ffffff&background=0000ff&center=true&vCenter=true&repeat=false&random=true&width=1035&lines=+If+you+don't+care+about+quality%2C+you+can+meet+any+other+requirement--Gerald+Weinberg+)](https://git.io/typing-svg)
+</br>I build infrastructure that doesn’t wake people up at 3 AM.
 
+Mostly platform engineering, IaC, and observability. I care about systems you can understand, change without fear, and run without babysitting.
 
-<!-- [![guix-test-pilot](https://github.com/user-attachments/assets/8ed705a3-f15b-44a5-8a20-d6550890a075)](https://guix.gnu.org) -->
+### What I’m doing
+
+Platform Engineer on the Harley-Davidson mobile team. Took a fragmented setup and pushed it toward something that actually works: standardized CI/CD, real observability, and less friction between teams.
+
+At CodigoCode (CTO), built the Azure infrastructure behind our AI SaaS from scratch. IaC-first, automated end-to-end. Moving toward GitOps so deployments, changes, and rollbacks are consistent and boring.
+
+### How I think
+
+* Boring systems survive
+* Reproducibility over “it works here”
+* Make failure modes obvious
+* Kill manual steps
+* If it’s hard to explain, it’s probably wrong
+
+</br>
+
+---
+
+<p align="center" style="font-size: 1.5em;"><strong>I optimize for systems that run, change, and recover without drama — because anything that depends on heroics eventually breaks.</strong></p>
+
+<p align="center" style="font-size: 1.5em;"><em>If you don’t care about quality, you can meet any other requirement. — Gerald Weinberg</em></p>
+
+---
+
+</br>
+
+### Outside the usual path 
+
+Took a year off and stepped outside the tech bubble.
+
+Traveled across the US and Europe 🌍, meeting wonderful people from many different backgrounds and walks of life. I also spent time doing Workaway. Different environments, different problems—no abstractions to hide behind.
+
+Used the time to sharpen my technical edge as well: deepening my work with Nix, NixOS, and building out my [Monster Flake™](https://github.com/cig0/monster-flake-public).
+
+Good reminder that most things don’t need to be complicated—just clear and reliable.
+
+When I'm away from keyboards, I do 📷 with my Nikon Z8, and play an ESP Aleksi-200 🎸 (Children of Bodom 🇫🇮🤘) through a Marshall DSP-40.
+
 <!--
 <h4 align='center'> . . . </h4>
 
@@ -25,13 +64,3 @@
 **cig0/cig0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-🫶-->
