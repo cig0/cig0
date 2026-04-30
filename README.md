@@ -24,8 +24,6 @@ At CodigoCode, built the Azure infrastructure behind our AI SaaS from scratch. I
 
 ---
 
-<p align="center" style="font-size: 1.5em;"><strong>I optimize for systems that run, change, and recover without drama — because anything that depends on heroics eventually breaks.</strong></p>
-
 <p align="center" style="font-size: 1.5em;"><em>If you don’t care about quality, you can meet any other requirement. — Gerald Weinberg</em></p>
 
 ---
