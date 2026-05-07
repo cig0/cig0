@@ -19,8 +19,6 @@ Mostly platform engineering, IaC, and observability. I care about systems you ca
 
 I highly identify myself with this quote: <p align="center" style="font-size: 1.5em;"><em>If you don’t care about quality, you can meet any other requirement. — Gerald Weinberg</em></p>
 
----
-
 </br>
 
 ### Outside the usual path 
