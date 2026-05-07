@@ -1,5 +1,5 @@
 </br>
-Hi 👋
+Hei! 👋
 
 </br>I build infrastructure that doesn’t wake people up at 3 AM.
 
