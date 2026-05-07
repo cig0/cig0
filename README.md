@@ -5,12 +5,6 @@ Hi 👋
 
 Mostly platform engineering, IaC, and observability. I care about systems you can understand, change without fear, and run without babysitting.
 
-### What I’m doing
-
-Platform Engineer on the Harley-Davidson mobile team. Took a fragmented setup and pushed it toward something that actually works: standardized CI/CD, real observability, and less friction between teams.
-
-At CodigoCode, built the Azure infrastructure behind our AI SaaS from scratch. IaC-first, Kubernates-native, automated end-to-end. Deployments, changes, and rollbacks should be consistent and boring.
-
 ### How I think
 
 * Boring systems survive
@@ -18,13 +12,12 @@ At CodigoCode, built the Azure infrastructure behind our AI SaaS from scratch. I
 * Reproducibility over “it works here”
 * Make failure modes obvious
 * Kill manual steps
+* Uniform development environments
 * If it’s hard to explain, it’s probably wrong
 
 </br>
 
----
-
-<p align="center" style="font-size: 1.5em;"><em>If you don’t care about quality, you can meet any other requirement. — Gerald Weinberg</em></p>
+I highly identify myself with this quote: <p align="center" style="font-size: 1.5em;"><em>If you don’t care about quality, you can meet any other requirement. — Gerald Weinberg</em></p>
 
 ---
 
@@ -36,11 +29,11 @@ Took a year off and stepped outside the tech bubble.
 
 Traveled across the US and Europe 🌍, meeting wonderful people from many different backgrounds and walks of life. I also spent time doing Workaway. Different environments, different problems—no abstractions to hide behind.
 
-Used the time to sharpen my technical edge as well: deepening my work with Nix, NixOS, and building out my [Monster Flake™](https://github.com/cig0/monster-flake-public).
+Used the time to sharpen my technical edge as well: deepening my learning of Nix and NixOS.
 
 Good reminder that most things don’t need to be complicated—just clear and reliable.
 
-When I'm away from keyboards, I do 📷 with my Nikon Z8, and play an ESP Aleksi-200 🎸 (Children of Bodom 🇫🇮🤘) through a Marshall DSP-40.
+When I'm away from keyboards, I do photography with my Nikon Z8, and play an ESP Aleksi-200 🎸 (Children of Bodom 🇫🇮🤘) through a Marshall DSP-40.
 
 <!--
 <h4 align='center'> . . . </h4>
