@@ -18,4 +18,4 @@ Of course, I couldn't completely switch off my brain. I used some of that time t
 
 #### AFK
 
-When I'm not configuring systems, I'm usually capturing moments with my [Nikon Z8](https://imaging.nikon.com/imaging/lineup/mirrorless/z_8/), jamming along to tracks on an [ESP Aleksi-200](https://www.espguitars.com/products/9310-alexi-200) 🎸 plugged into a [Marshall DSL-40c](https://www.marshall.com/ar/en/product/dsl40-combo?pid=1007163), or [doing functional training and boxing](https://share.google/6ZR0S0f8Hqb1OqGOI)
+When I'm not configuring systems, I'm usually capturing moments with my [Nikon Z8](https://imaging.nikon.com/imaging/lineup/mirrorless/z_8/), jamming along to tracks on an [ESP Aleksi-200](https://www.espguitars.com/products/9310-alexi-200) 🎸 plugged into a [Marshall DSL-40c](https://www.marshall.com/ar/en/product/dsl40-combo?pid=1007163), or [doing functional training and boxing](https://share.google/6ZR0S0f8Hqb1OqGOI).
