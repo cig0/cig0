@@ -2,7 +2,7 @@ Hei! 👋
 
 I build infrastructure that doesn’t wake people up at 3 AM.
 
-Focusing on **platform engineering**, **IaC**, and **observability**, I build systems you can actually understand, change without fear, and run without babysitting. As Gerald Weinberg pointed out: "If you don’t care about quality, you can meet any other requirement."
+Focusing on **platform engineering**, **IaC**, and **observability**, I build systems you can actually understand, change without fear, and run without babysitting. As Gerald Weinberg aptly pointed out: "If you don’t care about quality, you can meet any other requirement."
 
 #### How I Think
 
