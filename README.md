@@ -14,7 +14,7 @@ Focusing on **platform engineering**, **IaC**, and **observability**, I build sy
 
 I once took a year off to step away from the keyboard. I traveled to the US and through Europe, did some Workaway gigs, and met wonderful people from all walks of life. It was a great reminder that most things don't need to be complicated—just clear and reliable.
 
-Naturally, I also used the downtime to sharpen my technical edge by deep-diving into **Nix** and **NixOS**.
+Naturally, I also used the downtime to sharpen my technical edge by deep-diving into [Nix](https://zero-to-nix.com) and NixOS(https://zero-to-nix.com).
 
 #### AFK
 
