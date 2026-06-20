@@ -18,4 +18,4 @@ Of course, I couldn't completely switch off my brain. I used some of that time t
 
 #### AFK
 
-I spend my time building systems and learning new tech. When I'm not at the desk, I’m either out with my camera, playing guitar, or hitting the gym.
+When I'm not at the desk, I’m either out with my camera, playing guitar, or hitting the gym.
