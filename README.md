@@ -18,4 +18,4 @@ Of course, I couldn't completely switch off my brain. I used some of that time t
 
 #### AFK
 
-When I'm not at the desk, I’m either out with my camera, playing guitar, or hitting the gym.
+I spend way too much time on my screens. When I’m off them, I’m shooting photos, playing guitar, reading, or hitting the gym.
