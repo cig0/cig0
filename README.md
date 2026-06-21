@@ -1,6 +1,6 @@
 Hei! 👋
 
-I build predictable infrastructure that doesn’t wake people up at 3 AM.
+I build **predictable** infrastructure that doesn’t wake people up at 3 AM.
 
 Focusing on **platform engineering**, **IaC**, and **observability**, I build systems you can actually understand, change without fear, and run without babysitting. As [Gerald Weinberg](https://en.wikipedia.org/wiki/Gerald_Weinberg) aptly pointed out: "**If you don’t care about quality, you can meet any other requirement.**"
 
