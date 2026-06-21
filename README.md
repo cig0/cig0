@@ -14,7 +14,7 @@ Focusing on **platform engineering**, **IaC**, and **observability**, I build sy
 
 I once took a year off to step away from the keyboard. I traveled to the US and through Europe, did some Workaway gigs, and met wonderful people from all walks of life. It was a great reminder that most things don't need to be complicated—just clear and reliable.
 
-Of course, I couldn't completely switch off my brain. I used some of that time to keep building out my [Nix](https://zero-to-nix.com) & [NixOS](https://zero-to-nix.com) **flakes**—mostly because I'm just incredibly passionate about the ecosystem.
+Of course, I couldn't completely switch off my brain. I ended up spending some time with my Nix and NixOS flakes ❄️
 
 #### AFK
 
