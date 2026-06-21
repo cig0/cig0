@@ -1,21 +1,21 @@
 Hey! 👋
 
-I build **predictable** infrastructure that doesn’t wake people up at 3 AM.
+I build **predictable infrastructure** that doesn’t wake people up at 3 AM.
 
-Focusing on **platform engineering**, **IaC**, and **observability**, I build systems you can actually understand, change without fear, and run without babysitting. As [Gerald Weinberg](https://en.wikipedia.org/wiki/Gerald_Weinberg) aptly pointed out: "**If you don’t care about quality, you can meet any other requirement.**"
+I build systems that stay understandable, safe to change, and reliable under real operational load. As [Gerald Weinberg](https://en.wikipedia.org/wiki/Gerald_Weinberg) aptly pointed out: "**If you don’t care about quality, you can meet any other requirement.**"
 
 #### How I Think
 
-- **Boring systems survive:** Deterministic builds and deployments lower operational stress.
-- **Reproducibility over "it works here":** Make failure modes obvious and kill manual steps.
-- **Uniform dev environments:** If it's hard to explain, it’s probably wrong.
+- Boring systems survive: deterministic builds and deployments reduce operational stress.
+- Reproducibility over “it works here”: failure modes should be obvious, not hidden.
+- Uniform environments: if it’s hard to explain, it’s probably wrong.
 
 #### Outside the Tech Bubble
 
-I once took a year off to step away from the keyboard. I traveled to the US and through Europe, did some Workaway gigs, and met wonderful people from all walks of life. It was a great reminder that most things don't need to be complicated—just clear and reliable.
+I took a year off to step away from the keyboard. I visited New York City before traveling through Europe, did Workaway gigs, and met people from many different backgrounds. The experience added contrast across cultures and reinforced that people are fundamentally similar when approached with basic decency.
 
-Of course, I couldn't completely switch off my brain. I ended up spending some time with my Nix and NixOS flakes ❄️
+I couldn’t fully switch off my engineering mindset, so I still spent time with Nix and NixOS flakes ❄️
 
 #### AFK
 
-I spend way too much time on my screens. When I’m off them, I’m shooting photos, playing guitar, reading, or hitting the gym.
+Outside of work, I shoot photos, play guitar, read, or go to the gym.
