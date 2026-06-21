@@ -20,7 +20,7 @@ The experience added contrast across cultures and reinforced that people are fun
 
 I couldn’t fully switch off my engineering mindset, so I still spent time with Nix and NixOS flakes ❄️
 
-#### AFK
+#### AFK, but also not really
 
 Outside of work, I stay up to date with software developments and keep learning—currently exploring Rust and JS/TS. I read Haruki Murakami and Yuval Noah Harari among others. 
 I enjoy cinema classics, especially noir films, play guitar, and shoot photos with my Nikon.
