@@ -1,4 +1,4 @@
-Hei! 👋
+Hey! 👋
 
 I build **predictable** infrastructure that doesn’t wake people up at 3 AM.
 
