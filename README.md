@@ -7,7 +7,7 @@ I build systems that stay understandable, safe to change, and reliable under rea
 #### How I Think
 
 - Boring systems survive: deterministic builds and deployments reduce operational stress.
-- Reproducibility over “it works here”: failure modes should be obvious, not hidden.
+- Reproducibility over “it works here”: failure modes should be explicit, not hidden.
 - Uniform environments: if it’s hard to explain, it’s probably wrong.
 - I optimize for decisions that reduce operational stress rather than increase it.
 - I like code that explains itself instead of making people guess.
