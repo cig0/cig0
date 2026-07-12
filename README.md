@@ -25,6 +25,10 @@ Of course I couldn’t fully switch off my engineering mindset, so I still spent
 Outside of work, I stay up to date with software developments and keep learning—currently exploring Rust and JS/TS. I read Haruki Murakami, Paul Auster, Raymond Carver, and Yuval Noah Harari among others. 
 I enjoy cinema classics, especially noir films, play guitar, and shoot photos with my Nikon.
 
+Hit me up if you share any of these interests 🤙
+
+gmail d0t com: **{** cig0 d0t github **}**
+
 ---
 
 <p align="center"><img width="776" height="381" alt="Screenshot 2026-05-04 at 4 37 27 PM" src="https://github.com/user-attachments/assets/f12e5182-bffd-4b05-af50-7c1c4c002a60" />
