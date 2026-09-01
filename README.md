@@ -6,7 +6,7 @@ I care about systems that stay understandable, reproducible, safe to change, and
 
 > “If you don’t care about quality, you can meet any other requirement.”
 
-💡 _If quality matters to you, you might find this article by Nathan Sobo, CEO and co-founder of Zed Industries, an interesting read_: [The Case for Software Craftsmanship in the Era of Vibes](https://zed.dev/blog/software-craftsmanship-in-the-era-of-vibes)"
+💡 _If quality matters to you, you might find this article by Nathan Sobo, CEO and co-founder of Zed Industries, an interesting read_: [The Case for Software Craftsmanship in the Era of Vibes](https://zed.dev/blog/software-craftsmanship-in-the-era-of-vibes)
 
 ### How I Think
 
