@@ -1,31 +1,27 @@
-Hey! 👋
+## Hey! 👋
 
-I build **predictable infrastructure** that doesn’t wake people up at 3 AM.
+I build predictable infrastructure that doesn’t wake people up at 3 AM.
 
-I build systems that stay understandable, safe to change, and reliable under real operational load. As [Gerald Weinberg](https://en.wikipedia.org/wiki/Gerald_Weinberg) aptly pointed out: "**If you don’t care about quality, you can meet any other requirement.**"
+I care about systems that stay understandable, reproducible, safe to change, and reliable under real operational load. As Gerald Weinberg put it:
 
-#### How I Think
+> “If you don’t care about quality, you can meet any other requirement.”
 
-- Boring systems survive: deterministic builds and deployments reduce operational stress.
-- Reproducibility over “it works here”: the same inputs should produce the same results, regardless of where they run.
-- Uniform environments reduce drift: fewer hidden differences means fewer production surprises.
-- Making architectural choices that eliminate entire classes of operational failure.
+### How I Think
+
+- Boring systems survive. Deterministic builds and deployments reduce operational stress.
+- Reproducibility beats “it works here.” The same inputs should produce the same results wherever they run.
+- Good architectural choices eliminate entire classes of failure.
 - I like code that explains itself instead of making people guess.
 
-#### Outside the Tech Bubble
+### Outside the Tech Bubble
 
-I took a year off to step away from the keyboard. I visited New York City before traveling through Europe, did Workaway gigs, and met people from many different backgrounds.
+I took a year away from work to travel through New York City and Europe, do Workaway gigs, and spend time with people from very different backgrounds. It was a useful reminder that curiosity, respect, and basic decency travel remarkably well.
 
-Immersing myself in different cultures added valuable contrast, reinforcing that regardless of background, people are fundamentally similar when you lead with genuine curiosity, respect, and basic decency.
+I never entirely switched off the engineering brain, though—Nix and NixOS flakes still came along for the ride. ❄️
 
-Of course I couldn’t fully switch off my engineering mindset, so I still spent time with Nix and NixOS flakes ❄️
+Outside work, I continue sharpening my technology skills. I read Murakami, Paul Auster, Raymond Carver, and Yuval Noah Harari (among others); enjoy classic cinema and noir; play guitar; and shoot photos with my Nikon.
 
-#### AFK, but also not really
-
-Outside of work, I stay up to date with software developments and keep learning—currently exploring Rust and JS/TS. I read Haruki Murakami, Paul Auster, Raymond Carver, and Yuval Noah Harari among others. 
-I enjoy cinema classics, especially noir films, play guitar, and shoot photos with my Nikon.
-
-Hit me up if you share any of these interests 🤙
+Hit me up if any of that sounds familiar 🤙
 
 gmail d0t com: **{** cig0 d0t github **}**
 
