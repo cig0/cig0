@@ -1,31 +1,32 @@
-## Hey! 👋
+Hey!
 
 I build predictable infrastructure that doesn’t wake people up at 3 AM.
 
-I care about systems that stay understandable, reproducible, safe to change, and reliable under real operational load. As Gerald Weinberg put it:
+I care about systems that remain understandable, reproducible, safe to change, and reliable under real operational load. I’m particularly drawn to Nix and NixOS because deterministic builds and deployments reduce operational stress.
 
-> “If you don’t care about quality, you can meet any other requirement.”
+> “If you don’t care about quality, you can meet any other requirement.”  
+> — Gerald Weinberg
 
-💡 _If quality matters to you, you might find this article by Nathan Sobo, CEO and co-founder of Zed Industries, an interesting read_: [The Case for Software Craftsmanship in the Era of Vibes](https://zed.dev/blog/software-craftsmanship-in-the-era-of-vibes)
+💡 If quality matters to you, I recommend Nathan Sobo’s *[The Case for Software Craftsmanship in the Era of Vibes](https://zed.dev/blog/software-craftsmanship-in-the-era-of-vibes)*. He is CEO and co-founder of Zed Industries.
 
-### How I Think
+## How I Think
 
-- Boring systems survive. Deterministic builds and deployments reduce operational stress.
-- Reproducibility beats “it works here.” The same inputs should produce the same results wherever they run.
-- Good architectural choices eliminate entire classes of failure.
-- I like code that explains itself instead of making people guess.
+- Boring systems survive.
+- Reproducibility beats “it works here”: the same inputs should produce the same results everywhere.
+- Good architectural choices eliminate whole classes of failure.
+- Code and infrastructure should explain themselves instead of making people guess.
 
-### Outside the Tech Bubble
+## Outside the Tech Bubble
 
 I took a year away from work to travel through New York City and Europe, do Workaway gigs, and spend time with people from very different backgrounds. It was a useful reminder that curiosity, respect, and basic decency travel remarkably well.
 
 I never entirely switched off the engineering brain, though—Nix and NixOS flakes still came along for the ride. ❄️
 
-Outside work, I continue sharpening my technology skills. I read Murakami, Paul Auster, Raymond Carver, and Yuval Noah Harari (among others); enjoy classic cinema and noir; play guitar; and shoot photos with my Nikon.
+Outside work, I continue sharpening my technology skills. I read Murakami, Paul Auster, Raymond Carver, and Yuval Noah Harari; enjoy classic cinema and noir; play guitar; and shoot photos with my Nikon.
 
 Hit me up if any of that sounds familiar 🤙
 
-gmail d0t com: **{** cig0 d0t github **}**
+gmail d0t com: `{ cig0 d0t github }`
 
 ---
 
