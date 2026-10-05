@@ -12,7 +12,6 @@ I care about systems that remain understandable, reproducible, safe to change, a
 ## How I Think
 
 - Boring systems survive.
-- Reproducibility beats “it works here”: the same inputs should produce the same results everywhere.
 - Good architectural choices eliminate whole classes of failure.
 - Code and infrastructure should explain themselves instead of making people guess.
 
