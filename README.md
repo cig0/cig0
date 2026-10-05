@@ -19,7 +19,7 @@ I care about systems that remain understandable, reproducible, safe to change, a
 
 I took a year away from work to travel through New York City and Europe, do Workaway gigs, and spend time with people from very different backgrounds. It was a useful reminder that curiosity, respect, and basic decency travel remarkably well.
 
-I never entirely switched off the engineering brain, though—Nix and NixOS flakes still came along for the ride. ❄️
+I never entirely switched off the engineering brain, though—Nix and NixOS flakes still came along for the ride.
 
 Outside work, I continue sharpening my technology skills. I read Murakami, Paul Auster, Raymond Carver, and Yuval Noah Harari; enjoy classic cinema and noir; play guitar; and shoot photos with my Nikon.
 
