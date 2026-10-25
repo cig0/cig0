@@ -23,11 +23,8 @@ I never entirely switched off the engineering brain, though—Nix and NixOS flak
 
 Outside work, I continue sharpening my technology skills. I read Murakami, Paul Auster, Raymond Carver, and Yuval Noah Harari; enjoy classic cinema and noir; play guitar; and shoot photos with my Nikon.
 
-Hit me up if any of that sounds familiar 🤙
+Hit me up if any of that sounds familiar :)
 
 gmail d0t com: `{ cig0 d0t github }`
 
----
-
-<p align="center"><img width="776" height="381" alt="Screenshot 2026-05-04 at 4 37 27 PM" src="https://github.com/user-attachments/assets/f12e5182-bffd-4b05-af50-7c1c4c002a60" />
 </p>
