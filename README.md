@@ -1,30 +1,32 @@
-Hey!
+I build predictable infrastructure that doesn't wake people up at 3 AM.
 
-I build predictable infrastructure that doesn’t wake people up at 3 AM.
+I care about systems that are understandable, reproducible, safe to change, and reliable under load. Deterministic builds mean fewer surprises in production.
 
-I care about systems that remain understandable, reproducible, safe to change, and reliable under real operational load. I’m particularly drawn to Nix and NixOS because deterministic builds and deployments reduce operational stress.
-
-> “If you don’t care about quality, you can meet any other requirement.”  
-> — Gerald Weinberg
-
-💡 If quality matters to you, I recommend Nathan Sobo’s *[The Case for Software Craftsmanship in the Era of Vibes](https://zed.dev/blog/software-craftsmanship-in-the-era-of-vibes)*. He is CEO and co-founder of Zed Industries.
-
-## How I Think
+**How I work**
 
 - Boring systems survive.
-- Good architectural choices eliminate whole classes of failure.
-- Code and infrastructure should explain themselves instead of making people guess.
+- Good architecture eliminates entire classes of failure.
+- Infrastructure should explain itself. No guessing.
 
-## Outside the Tech Bubble
+**On quality**
 
-I took a year away from work to travel through New York City and Europe, do Workaway gigs, and spend time with people from very different backgrounds. It was a useful reminder that curiosity, respect, and basic decency travel remarkably well.
+There's a growing gospel that quality is dead: ship, AI will handle the rest. *I take the opposite bet*.
 
-I never entirely switched off the engineering brain, though—Nix and NixOS flakes still came along for the ride.
+> "If you don't care about quality, you can meet any other requirement."
+> — Gerald Weinberg
 
-Outside work, I continue sharpening my technology skills. I read Murakami, Paul Auster, Raymond Carver, and Yuval Noah Harari; enjoy classic cinema and noir; play guitar; and shoot photos with my Nikon.
+We aren't yet where AI builds, tests, deploys and maintains better than we do. What we have now is synthetically-generated code that no one reviewed and no one understands. When it breaks, the fix is another loop that compounds the problem.
 
-Hit me up if any of that sounds familiar :)
+In the age of AI, understanding your systems matters *more*, not less. That's how you build reliable, performant, and secure products.
 
-gmail d0t com: `{ cig0 d0t github }`
+Happy to discuss and be proven wrong — with specifics, not slogans.
 
-</p>
+If quality matters to you, read Nathan Sobo's *[The Case for Software Craftsmanship in the Era of Vibes](https://zed.dev/blog/software-craftsmanship-in-the-era-of-vibes)* (Zed Industries).
+
+**Outside work**
+
+I read — Murakami, Auster, Carver, Harari — watch classic noir, play guitar, and shoot with my Nikon Z8.
+
+Hit me up if any of that sounds familiar!
+
+`{ cig0 d0t github }` at gmail d0t com
