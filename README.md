@@ -7,6 +7,7 @@ I care about systems that are understandable, reproducible, safe to change, and 
 - Boring systems survive.
 - Good architecture eliminates entire classes of failure.
 - Infrastructure should explain itself. No guessing.
+- Security from Day Zero, not bolted on later.
 
 **On quality**
 
