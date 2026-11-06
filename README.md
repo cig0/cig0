@@ -27,7 +27,3 @@ If quality matters to you, read Nathan Sobo's *[The Case for Software Craftsmans
 **Outside work**
 
 I read — Murakami, Auster, Carver, Harari — watch classic noir, play guitar, and shoot with my Nikon Z8.
-
-Hit me up if any of that sounds familiar!
-
-`{ cig0 d0t github }` at gmail d0t com
